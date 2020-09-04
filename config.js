@@ -99,7 +99,7 @@ var config = {
         {
             id: 'wh',
             title: 'Water Harvesting',
-            image: ‘https://dwsd.box.com/shared/static/kacj15h0kfqgg1wzqbucxxsmnh8k5xk9.jpg',
+            image: 'https://dwsd.box.com/shared/static/kacj15h0kfqgg1wzqbucxxsmnh8k5xk9.jpg',
             description: 'The single largest GSI site is one dedicated to water harvesting, a practice where runoff is captured and reused as greywater for things. It is handled like 204.598 million gallons annually and is located by GM’s Detroit-Hamtramck assembly plant. It was created in 2016 and was slated to save the company nearly $2 million every year. It works by collecting the rain that flows in through storm drains in a pond, from there the water is taken and treated to be used in cooling towers, breaking down paint sludge, and in the future generating electricity for the plant and local businesses.',
             location: {
                 center: [-83.05901, 42.38206],
