@@ -197,6 +197,7 @@ var config = {
             onChapterExit: [
 
             ]
-        }]
+        },
+     ]
 
 };
