@@ -4,11 +4,11 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     alignment: 'left',
-    // title: "An Interactive tour of Detroit's Stormwater Insustructure.",
+    //title: "An Interactive tour of Detroit's Stormwater Insustructure.",
     // subtitle: 'Infrastructure, ranging from roads to bridges to buildings to sewer systems, are the basic equipment essential for functional, healthy, and vibrant communities. A big part of managing infrastructure is providing regular maintenance, repair and occasional replacement. We saw a little insight into the immense importance of one type of infrastructure earlier this summer when 2 dams in midland failed and caused massive floodings, damage to people and properties, and evacuations. Traditional infrastructure has been designed to move urban stormwater away from built structures—things like curbs, gutters, and drains, that rather than capture water, they discard water untreated into local water sources. But that stormwater runoff is one of the leading causes of water pollution in urban places like Detroit. That’s where  "green" stormwater infrastructure (GIS) comes in. It is designed to mimic nature’s ability to capture rainwater where it falls, to reduce runoff and allow for the ability to treat stormwater.  It has also been linked to several benefits including: reducing localized flooding, providing green jobs, and improving the look of neighborhoods',
     // byline: 'Eve Washington',
     // footer: 'Source: Detroit StormWater Hub ',
-     chapters: [
+    chapters: [
         {
             id: 'all',
             title: "Detroit's GSI Projects",
@@ -198,6 +198,6 @@ var config = {
 
             ]
         },
-     ]
-
+ 
+    ]
 };
